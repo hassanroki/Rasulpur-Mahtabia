@@ -1,0 +1,137 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Extra Facibility */
+.bg-color{
+    background-color: #6B728E;
+}
+
+.bg-color-color{
+    color: #50577A;
+}
+
+/* slider section start */
+.slider{
+    colro: #FFF;
+    overflow: hidden;
+}
+
+marquee{
+    font-size: 30px;
+    font-weight: 800;
+    color: #8ebf42;
+    background-color: #000;
+    font-family: sans-serif;
+    }
+
+.slider p{
+    font-size: 25px;
+    margin-bottom: 10%;
+    color: #000;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 10px;
+    opacity: .6;
+    text-align: center;
+}
+
+.slider h5{
+    font-size: 25px;
+    color: #000;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding: 10px;
+    opacity: .6;
+    text-align: center;
+}
+
+.slider img{
+    width: 100%;
+}
+/* slider section end */
+
+/* navbar section start */
+.navbar-container{
+    top: 0;
+    background-color: #404258;
+    position: sticky;
+    z-index: 2;
+}
+
+.navbar-container ul li a{
+    text-transform: uppercase;
+}
+/* navbar section end */
+
+/* about container section start */
+.about-container{
+    background-color: #FFDDD2;
+    color: #FFF;
+}
+
+.about-container h3, p{
+    color: #404258;
+    text-align: justify;
+}
+
+/* Read More */
+#more {display: none;}
+
+/* about section end */
+
+/* education section start */
+.circle{
+    background-color: #404258;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+span{
+    color: red;
+}
+/* education section end */
+
+/* techer section start */
+.container-teacher{
+    background-color: #6B728E;
+}
+/* Teacher Secton End */
+
+/* Gallery Section Start */
+/* Gallery Section End */
+
+/* Contact Section Start */
+.container-contact{
+    background-color: #474D5D;
+}
+
+.inner-form{
+    background-color: #585A73;
+}
+
+.btn:hover{
+    color: #000 !important;
+}
+/* Contact section end */
+
+/* Footer Section Start */
+.footer{
+    background-color: #BCEAD5;
+}
+
+.circle-circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: #FFF;
+    font-size: 40px;
+    text-align: center;
+    color: #6B728E;
+}
+
+.circle-circle:hover{
+    background-color: cornflowerblue;
+}
